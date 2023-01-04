@@ -1,0 +1,10 @@
+{
+    "username": "mybeautifulusername",
+    "apitoken": "lookinyourpackagistprofile",
+    "packages": [
+        {
+            "name": "some/thing",
+            "branch": "main"
+        }
+    ]
+}
